@@ -141,5 +141,5 @@ https://catch-ball.co.jp/
 
 ---
 
-<img src="sample_animation.gif" width="50%" style="border:none;box-shadow:none;">
+<img src="./sample_animation.gif" width="50%" style="border:none;box-shadow:none;">
 
