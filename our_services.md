@@ -51,7 +51,7 @@ https://catch-ball.co.jp/
 
 別府市「湯園地」、佐賀県「佐賀海苔主役祭り」「23 時の佐賀飯アニメ」、JA 宮崎経済連「宮崎牛 赤富士」、すみだ／京都水族館「LOVE 推しペン超選挙」、安川電機「YASKAWA BUSHIDO PROJECT」、Samsung（GALAXY SII「SPACE BALLOON PROJECT」）、TOYOTA（TOYOTA GAZOO Racing、「TOYOTA BARISTA」、「ソーシャルヒッチハイク」）、NTT ドコモ（「i モード卒業公演」、新機種発表会）
 
----
+--
 
 ## CGM 事業
 
@@ -73,7 +73,7 @@ https://catch-ball.co.jp/
 - データ収集・分析・活用システム開発/インテグレーション
 - 導入支援・オンボーディング・チューニング・BPO
 
---
+---
 
 ## 特徴
 
@@ -115,7 +115,7 @@ https://catch-ball.co.jp/
 - 言語 AI/LLM
 - 小規模組織、プロジェクト単位の DX/AIX/システム開発が可能に
 
---
+---
 
 ## ケース
 
@@ -127,6 +127,8 @@ https://catch-ball.co.jp/
 | 大手 PR エージェンシー       | ベストセラー商品の継続ソーシャルハンティング業務の省力化・高度化                                                                      | マルチソース（Twitter、Youtube、Instagram、Tiktok、Google 検索）からの自動情報取得、類似度判定処理（bot 対策）、前後頻出分析、共起語トレンド分析、高速ビューワー実装、ブコメ/インサイトワードお気に入り機能、ツイート画像取得＆スライド貼付 |
 |                              | クライアントごとにカスタムされた露出内容の目検・分類・評価の自動化                                                                    | ルールベース＋ LLM を活用した入出力、ビジュアライズ、レポート生成機能                                                                                                                                                                       |
 |                              | Youtube チャンネルモニタリングの自動化                                                                                                | 指定 Youtube チャンネルの最新投稿の定期取得と自動内容判定・スクリーニング・通知                                                                                                                                                             |
+
+--
 
 ## チームメンバー
 
@@ -141,5 +143,4 @@ https://catch-ball.co.jp/
 
 ---
 
-![サンプル](sample_animation.gif)
-
+![サンプル](images/sample_animation.gif)
