@@ -16,7 +16,7 @@ https://catch-ball.co.jp/
 
 文化庁メディア芸術祭、ONESHOW、ADFEST、BRAIN ONLINE VIDEO AWARD、広告電通賞、コードアワード Yahoo!JAPAN インターネットクリエイティブアワード、東京インタラクティブ･アド･アワード、Japan YouTube Ads Leaderboard
 
----
+--
 
 ### 関連会社・法人株主
 
@@ -77,7 +77,7 @@ https://catch-ball.co.jp/
 
 ## 特徴
 
-### **① 小規模組織 プロジェクト単位**
+### ① 小規模組織 プロジェクト単位
 
 - 想定ユーザー数：1 ～ 30 人
 - 予算：50 万円/スポット ～ 500 万円/年
@@ -86,7 +86,7 @@ https://catch-ball.co.jp/
   データ・情報・知識の組織的活用力向上
   デジタルネイティブな新規事業立ち上げ
 
-### **② チャレンジテーマ 向き合う課題**
+### ② チャレンジテーマ 向き合う課題
 
 - **インテリジェンス・イネーブルメント**
   みんながデータ・情報・知識を活用できるようにする
@@ -141,5 +141,5 @@ https://catch-ball.co.jp/
 
 ---
 
-<img src="./sample_animation.gif" width="50%" style="border:none;box-shadow:none;">
+![サンプル](sample_animation.gif)
 
