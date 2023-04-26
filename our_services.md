@@ -1,4 +1,4 @@
-<img src="images/catchball_title01.png" width="30%" style="border:none;box-shadow:none;">
+<img src="images/catchball_title01.png" width="25%" style="border:none;box-shadow:none;">
 
 ### 設立
 
@@ -23,14 +23,13 @@ https://catch-ball.co.jp/
 株式会社バスキュール https://bascule.co.jp/
 あらゆるモノゴトの体験価値の増幅・拡張に挑むクリエイティブスタジオ、383 以上の受賞歴
 
---
 ### 詳しく教えて
 ```
 「KIBO 宇宙放送局」国際宇宙ステーション「きぼう」日本実験棟に開設した、宇宙と地上を双方向でつなぐ世界で唯一の宇宙放送局、「THE ISS METAVERSE」国際宇宙ステーションのリアルタイム位置情報と連携する宇宙を舞台にしたデジタルツインメタバース、「THE FIRST SPACE SUNRISE 2022」世界初！宇宙から NFT を発行・販売するプロジェクト、「This is 嵐 LIVE 2020.12.31」史上最大規模のオンライン配信ライブ、「SUBARU Digital Innovation Lab」クルマとテクノロジーの未来をデザインする共創 R&D プロジェクト、ドバイ万博の日本館展示、音声 AR 技術など、前人未到といえるプロジェクトを成功させている。
 ```
 ---
 
-## 事業・実績（旧事業）
+<img src="images/catchball_title02.png" width="30%" style="border:none;box-shadow:none;">
 
 ## デジタル PR
 
@@ -66,17 +65,19 @@ https://catch-ball.co.jp/
 
 ---
 
-## 新事業
+<img src="images/catchball_title03.png" width="20%" style="border:none;box-shadow:none;">
 
-## 提供サービス
+### 提供サービス
 
-<b style="color: blue">DX コンサルティング・PoC・プロトタイピング</b>
-- データ収集・分析・活用システム開発/インテグレーション
-- 導入支援・オンボーディング・チューニング・BPO
+## DX コンサルティング・PoC・プロトタイピング
+## データ収集・分析・活用システム開発/インテグレーション
+## 導入支援・オンボーディング・チューニング・BPO
 
 ---
 
-## 特徴
+# 特徴
+
+--
 
 ### ① 小規模組織 プロジェクト単位
 
@@ -86,6 +87,8 @@ https://catch-ball.co.jp/
   目的特化型 DX システム開発
   データ・情報・知識の組織的活用力向上
   デジタルネイティブな新規事業立ち上げ
+
+--
 
 ### ② チャレンジテーマ 向き合う課題
 
@@ -98,7 +101,9 @@ https://catch-ball.co.jp/
 
 ---
 
-## 背景・環境
+# 背景・環境
+
+--
 
 ### ① 激変する（した）情報流通構造
 
@@ -106,6 +111,8 @@ https://catch-ball.co.jp/
 - **多様/多面化**：マルチプラットフォーム/デバイス/コミュニティ
 - **分散/フラット/ロングテール化**：メインストリートの消失
 - **受け身/パーソナル/タコツボ化**：ネットの大衆化、マッチング技術
+
+--
 
 ### ② データ、コンピューティングの民主化
 
