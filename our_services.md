@@ -1,4 +1,4 @@
-<img src="images/catchball_title01.png" width="25%" style="border:none;box-shadow:none;">
+## <img src="images/catchball_title01.png" width="35%" style="border:none;box-shadow:none;">
 
 ### 設立
 
@@ -33,11 +33,11 @@ https://catch-ball.co.jp/
 ```
 ---
 
-<img src="images/catchball_title02.png" width="30%" style="border:none;box-shadow:none;">
+## <img src="images/catchball_title02.png" width="40%" style="border:none;box-shadow:none;">
 
-## デジタル PR
+### デジタル PR
 
-### デジタルに特化した、職人的リサーチ・リスト作成とアプローチ
+#### デジタルに特化した、職人的リサーチ・リスト作成とアプローチ
 
  - #### ネタの可能性を引き出す  
  
@@ -71,7 +71,7 @@ https://catch-ball.co.jp/
 
 ---
 
-<img src="images/catchball_title03.png" width="20%" style="border:none;box-shadow:none;">  
+## <img src="images/catchball_title03.png" width="30%" style="border:none;box-shadow:none;">  
   
 
 **提供サービス**
@@ -81,19 +81,21 @@ https://catch-ball.co.jp/
 ### 導入支援・オンボーディング・チューニング・BPO
 
 ---
-
+<!-- .element data-background="#C8C8C8" -->
 # 特徴
 
 --
 
 ### ① 小規模組織 プロジェクト単位
 
-#### 想定ユーザー数：1 ～ 30 人
-#### 予算：50 万円/スポット ～ 500 万円/年
-#### 活用イメージ
-**目的特化型 DX システム開発  
-**データ・情報・知識の組織的活用力向上  
-**デジタルネイティブな新規事業立ち上げ  
+### 想定ユーザー数：1 ～ 30 人
+### 予算：50 万円/スポット ～ 500 万円/年
+### 活用イメージ
+**目的特化型 DX システム開発**  
+
+**データ・情報・知識の組織的活用力向上*  
+
+**デジタルネイティブな新規事業立ち上げ*  
 
 --
 
@@ -111,7 +113,7 @@ https://catch-ball.co.jp/
   ツール/アプリケーションの企画/設計/開発/販売  
 
 ---
-
+<!-- .element data-background="#C8C8C8" -->
 # 背景・環境
 
 --
@@ -137,6 +139,7 @@ https://catch-ball.co.jp/
 - ### オープンソース
   - #### データ  
   - #### ナレッジ  
+  
   
 - ### クラウド・コンピューティング
 - ### 言語 AI/LLM
