@@ -1,4 +1,4 @@
-![タイトル](images/catchball_title01.png)
+<img src="images/catchball_title01.png" width="30%" style="border:none;box-shadow:none;">
 
 ### 設立
 
@@ -70,7 +70,7 @@ https://catch-ball.co.jp/
 
 ## 提供サービス
 
-- DX コンサルティング・PoC・プロトタイピング
+<b style="color: blue">DX コンサルティング・PoC・プロトタイピング</b>
 - データ収集・分析・活用システム開発/インテグレーション
 - 導入支援・オンボーディング・チューニング・BPO
 
